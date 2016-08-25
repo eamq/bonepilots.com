@@ -4,7 +4,11 @@ body {
   padding-bottom: 20px;
 }
 
-.bonepilots-logo {
+.bonepilots-logo-header {
   padding: 50px;
 }
 
+.calendar {
+  margin: 0 auto;
+  max-width: 800px;
+}
